@@ -1,0 +1,20 @@
+h1{
+	color:red;
+	font-size: 40px;
+	text-align: center;
+}
+.second
+{
+	font-size: 25px;
+	font-family: monospace;
+	margin-left: 30px;
+}
+p{
+	font-size: 25px;
+}
+.ver
+{
+	border-left: 4px solid black;
+	height:900px;
+	
+}
